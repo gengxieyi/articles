@@ -15,7 +15,7 @@ raft算法中有三种角色：
 选举的主要目的就是选出一个Leader
 
 ## 角色转换
-![raft角色转换](./pic/raft.jpg)
+![raft角色转换](./raft/raft.jpg)
 ## 选举过程详解
 ### Follower
 * 每个节点的启动初始状态都是follower
